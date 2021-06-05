@@ -7,7 +7,7 @@ function PortfolioCard(props) {
         <div className="card-body">
           <p>{props.description}</p>
           <a href={props.website} target="_blank" rel="noreferrer">
-            <button type="button" className="nes-btn is-primary">Website</button>
+            <button type="button" className="nes-btn is-success">Website</button>
           </a>
           <a href={props.github} target="_blank" rel="noreferrer">
             <button type="button" className="nes-btn is-warning">GitHub</button>

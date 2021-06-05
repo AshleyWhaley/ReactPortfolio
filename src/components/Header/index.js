@@ -4,7 +4,7 @@ import { Link } from 'react-router-dom';
 function Header() {
   return (
     <div className="jumbotron">
-      <div className="container">
+      <div className="container nes-text is-disabled">
         <h2 className="display-4 text-center">Ashley Whaley</h2>
         <p className="lead text-center">Full-Stack Web Developer</p>
         <ul className="nav justify-content-center nes-list is-disc">

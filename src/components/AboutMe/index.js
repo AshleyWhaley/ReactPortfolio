@@ -7,7 +7,7 @@ function AboutCard() {
       <div className="card nes-container with-title is-centered mb-5">
         <p className="title nes-container">About</p>
           <div className="card-body">
-          <img className="img-responsive float-left mb-3" width="250px" height="260px" src={Me}></img>
+          <img className="img-responsive float-left mb-3" width="250px" height="300px" src={Me}></img>
 
           <p className="mt-3">Hello World! My name is Ashley Whaley</p>
           <p>I currently work for Dealers Auto Auction Seattle as an Arbitration Administrator for 3 years. I handle all the fun problems that come with selling a vehicle that has been guaranteed by our standards which also complies with the National Auto Auction Association standards.</p>
